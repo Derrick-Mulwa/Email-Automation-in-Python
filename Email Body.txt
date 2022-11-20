@@ -1,0 +1,5 @@
+Hello {recipientsName}.
+
+We value you as a member of Firefly industries and thank you for supporting {industry} which is one of our subsidiary companies. We will be opening up a new subsidiary company, Procrat, that will deal in organic food production. As our member from {location}, you are invited to join us in our grand opening at Naivasha lounge on 12-12-2022.
+
+Thank you for your time, {recipientsName}.
