@@ -1,4 +1,4 @@
-This is a python file. Pandas and smtplib modules are used in this project.
+This is a python program. Pandas and smtplib modules are used in this project.
 
 The Recipients.csv file contains data about the email recipients; Name, email address, location and the subsidiary company used by the recipient.
 
